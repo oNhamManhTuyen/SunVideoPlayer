@@ -1,0 +1,2 @@
+rootProject.name='Decode Video'
+include ':app'
